@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kirim! 
+- 📚 I’m interested in reading books 
+- 😫 I’m currently learning Java 
